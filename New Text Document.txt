@@ -1,4 +1,9 @@
 123
 
 ddd
+<<<<<<< HEAD
 bbb
+=======
+
+ccc
+>>>>>>> feature1
