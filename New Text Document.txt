@@ -9,4 +9,8 @@ ccc
 >>>>>>> feature1
 e
 
+<<<<<<< HEAD
 3
+=======
+f
+>>>>>>> master
